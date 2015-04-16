@@ -2,5 +2,8 @@
 using namespace std;
 int main (){
 
-cout << "que pasa por tu casa" << endl;
+cout << "¿vas a ir a la fiesta?" << endl;
+cout << "¿que fiesta?" << endl;
+cout << "Pues tira de esta" << endl;
+
 }
